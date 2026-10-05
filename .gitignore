@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+models/codebert_localizer/model.safetensors
+evaluation/results.*
+.DS_Store
